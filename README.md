@@ -4,4 +4,5 @@
 - 💞️ I’m looking to collaborate on anything Python and hopefully, more expansive projects in the future.
 - 📫 How to reach me? Well, you can just shoot me an email, I guess.
 
-<1>
+
+1
