@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AFKoding
 - 👀 I’m interested in all things web-development.
-- 🌱 I’m currently using HTML, CSS, JavaScript, in the MERN stack.
+- 🌱 I’m competent in HTML, CSS, JavaScript, and am familiar with Next.js, React.js, Express, and the general MERN stack.
 - 💞️ I’m looking to collaborate on anything and hopefully, more expansive projects in the future.
 - 📫 How to reach me? Just shoot me an email.
